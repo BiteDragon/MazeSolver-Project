@@ -22,3 +22,8 @@ This allows users to visualize the most efficient route through the maze.
 
 The Maze Solver project offers an engaging and interactive experience for maze enthusiasts and problem-solving enthusiasts alike. 
 By utilizing the Depth First algorithm and a user-friendly Java Swing interface, users can navigate complex mazes and witness the solving process in action. Whether for educational purposes or recreational challenges, this application provides an intuitive solution to maze navigation and exploration.
+
+
+#Output
+![mazesolver](https://github.com/BiteDragon/MazeSolver-Project/assets/136362215/aa982e98-7948-41bc-b1bc-c11fe0b54e76)
+
